@@ -3,7 +3,7 @@ Task Management Web Application
 Getting Started
 
 1.Clone the GitHub repository:
-	git clone https://github.com/your-username/task.git
+	git clone https://github.com/sahinpathan/task.git
 	cd task
  
 2.Install dependencies 
